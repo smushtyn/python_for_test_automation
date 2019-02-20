@@ -27,5 +27,5 @@ Temporary Items
 
 
 # blog project related
-.blog/.idea/
-.venv/
+blog/.idea/
+venv/
